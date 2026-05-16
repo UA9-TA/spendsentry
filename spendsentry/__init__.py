@@ -1,0 +1,1 @@
+"""SpendSentry package."""
